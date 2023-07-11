@@ -1,0 +1,15 @@
+.App {
+  background-color: #081420;
+  width: 100vw;
+  height: 100vh;
+}
+
+.search-bar-container {
+  padding-top: 30vh;
+  width: 60%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 400px;
+}
