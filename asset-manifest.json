@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/searchbarapi/static/css/main.fdf9e292.css",
+    "main.js": "/searchbarapi/static/js/main.2c3cd5a4.js",
+    "static/js/787.f6aae725.chunk.js": "/searchbarapi/static/js/787.f6aae725.chunk.js",
+    "index.html": "/searchbarapi/index.html",
+    "main.fdf9e292.css.map": "/searchbarapi/static/css/main.fdf9e292.css.map",
+    "main.2c3cd5a4.js.map": "/searchbarapi/static/js/main.2c3cd5a4.js.map",
+    "787.f6aae725.chunk.js.map": "/searchbarapi/static/js/787.f6aae725.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdf9e292.css",
+    "static/js/main.2c3cd5a4.js"
+  ]
+}
